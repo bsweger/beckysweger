@@ -1,2 +1,3 @@
-# beckysweger
-Professional-type about me page
+# Becky Sweger
+
+An online portfolio of sorts.
