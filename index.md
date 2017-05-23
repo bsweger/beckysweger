@@ -38,7 +38,7 @@ Pandas is a powerful data analysis toolkit. But sometimes you just need a quick 
 
 ### State Smart
 
-Because a single source of federal spending data was not available back in 2015, I designed a website that pulled together many disparate data sources to tell the story of how federal dollars flow into and out of states. In addition to writing the writing the narrative, I researched the data sources and coded the ETL (extract, transform, and load).
+Because a single source of federal spending data was not available back in 2015, I designed a website that pulled together many disparate data sources to tell the story of how federal dollars flow into and out of states. In addition to writing the narrative, I researched the best sources for the required information (making some hard decisions along the way) and coded the ETL (extract, transform, and load) needed to power the site.
 
 * [https://www.nationalpriorities.org/smart/](https://www.nationalpriorities.org/smart/)
 * Source code: proprietary
