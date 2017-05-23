@@ -57,3 +57,9 @@ A technical blog that I haven't updated in years. I keep it around as evidence t
 * [Getting R to work in a notebook running on Windows](http://www.swegler.com/becky/blog/2014/08/03/ipython-ipython-notebook-anaconda-and-r-rpy2/)
 * [Tutorials for running Python, Django, and MySQL on Windows, back when it was harder](http://www.swegler.com/becky/blog/2011/09/14/python-django-and-mysql-on-windows-7/)
 * [Making Excel charts less...ugly](http://www.swegler.com/becky/blog/2012/01/29/no-excuses-for-ugly-excel-charts/)
+
+### Random Trek
+
+I was a guest on a Star Trek podcast, which was quite fun.
+
+* [https://www.theincomparable.com/randomtrek/76/](https://www.theincomparable.com/randomtrek/76/)
