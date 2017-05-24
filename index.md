@@ -1,6 +1,6 @@
 ---
-layout: base
 title: Becky Sweger
+layout: landing
 ---
 
 # Becky Sweger
