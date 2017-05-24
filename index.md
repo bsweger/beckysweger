@@ -28,7 +28,7 @@ I was deeply involved in the "DATA Act Broker," a product that federal agencies 
 A project I started to explore and write about federal spending data. For example: [https://bsweger.github.io/fedspending/writing/hierarchy_start_bottom.html](https://bsweger.github.io/fedspending/writing/hierarchy_start_bottom.html).
 
 * [https://bsweger.github.io/fedspending/](https://bsweger.github.io/fedspending/)
-* Source code: https://github.com/bsweger/fedspending
+* Source code: [https://github.com/bsweger/fedspending](https://github.com/bsweger/fedspending)
 
 ### Pandas Snippets
 
@@ -48,7 +48,7 @@ Because a single source of federal spending data was not available back in 2015,
 The inaugural National Day of Civic Hacking happened in 2013. Rather than travel to New York or Boston to participate, I gathered a team of local technologists to organize our own Western Massachusetts-flavored hackathon. I served on the organizing committee in 2013 and 2014 before passing the torch.
 
 * [http://hackforwesternmass.org/2013/](http://hackforwesternmass.org/2013/)
-* Source code: https://github.com/hackforwesternmass
+* Source code: [https://github.com/hackforwesternmass](https://github.com/hackforwesternmass)
 
 ### Computers are for People
 
