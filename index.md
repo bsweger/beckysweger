@@ -2,10 +2,8 @@
 title: Becky Sweger
 layout: base
 main:
-  class: usa-grid usa-section usa-content usa-layout-docs
+  class: body
 ---
-
-<div class="usa-width-three-fourths usa-layout-docs-main_content">
 
 # Becky Sweger
 
@@ -72,5 +70,3 @@ A technical blog that I haven't updated in years. I keep it around as evidence t
 I was a guest on a Star Trek podcast, which was quite fun.
 
 * [https://www.theincomparable.com/randomtrek/76/](https://www.theincomparable.com/randomtrek/76/)
-
-</div>
