@@ -1,3 +1,8 @@
+---
+layout: base
+title: Becky Sweger
+---
+
 # Becky Sweger
 
 [Twitter](https://twitter.com/bendystraw)  
