@@ -60,6 +60,6 @@ A technical blog that I haven't updated in years. I keep it around as evidence t
 
 ### Random Trek
 
-I was a guest on a Star Trek podcast, which was quite fun.
+I was a guest on a Star Trek podcast, which doesn't really count as work.
 
 * [https://www.theincomparable.com/randomtrek/76/](https://www.theincomparable.com/randomtrek/76/)
