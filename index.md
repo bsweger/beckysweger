@@ -73,7 +73,7 @@ A technical blog that I haven't updated in years. I keep it around as evidence t
 
 ## Fun
 
-* [Star Trek podcast]((https://www.theincomparable.com/randomtrek/76/) guesting.
+* [Star Trek podcast](https://www.theincomparable.com/randomtrek/76/) guesting.
 
 * Being a [self-described maple sugar enthusiast](http://visithampshirecounty.com/blog/get-the-most-out-of-maple-sugaring-season-in-western-mass/).
 
