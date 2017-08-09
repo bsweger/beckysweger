@@ -58,6 +58,19 @@ A technical blog that I haven't updated in years. I keep it around as evidence t
 * [Tutorials for running Python, Django, and MySQL on Windows, back when it was harder](http://www.swegler.com/becky/blog/2011/09/14/python-django-and-mysql-on-windows-7/)
 * [Making Excel charts less...ugly](http://www.swegler.com/becky/blog/2012/01/29/no-excuses-for-ugly-excel-charts/)
 
+## Talks
+
+* [Leveraging Technology to Modernize Government (panel)](https://www.datacoalition.org/data-act-summit-data-demo-day-2017/)
+
+* [Why the DATA Act Matters: New Uses for Standardized Spending Information](http://www.datafoundation.org/data-act-training-june-2017/)
+
+* [Data Munging With Python and Pandas](https://github.com/18F/tech-talks/blob/master/pandas-munging/pandas_data_munging.ipynb)
+
+* [Intro to IPython Notebooks](http://www.swegler.com/becky/presentations/nerdsummit/NERDSPresentation.slides.html#/)
+
+* [Elegant and Efficient Database Design](https://www.slideshare.net/bendystraw/elegant-and-efficient-database-design)
+
+
 ## Fun
 
 * [Star Trek podcast]((https://www.theincomparable.com/randomtrek/76/) guesting.
