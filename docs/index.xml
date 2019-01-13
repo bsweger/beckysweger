@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Becky Sweger</title>
+    <link>http://beckysweger.com/</link>
+    <description>Recent content on Becky Sweger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jan 2019 17:03:04 -0500</lastBuildDate>
+    
+	<atom:link href="http://beckysweger.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://beckysweger.com/about/</link>
+      <pubDate>Sun, 13 Jan 2019 17:03:04 -0500</pubDate>
+      
+      <guid>http://beckysweger.com/about/</guid>
+      <description>Human.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://beckysweger.com/projects/</link>
+      <pubDate>Sun, 13 Jan 2019 16:44:47 -0500</pubDate>
+      
+      <guid>http://beckysweger.com/projects/</guid>
+      <description>Work DATA Act: USAspending API Led the buildout of an API that presents, for the first time, a unified view of U.S. spending data. In addition to being available for public use, the API powers beta.usaspending.gov.
+ https://api.usaspending.gov/ Source code: https://github.com/fedspendingtransparency/usaspending-api  DATA Act: Data Ingest and Validation I was deeply involved in the &amp;ldquo;DATA Act Broker,&amp;rdquo; a product that federal agencies use to submit and validate their spending data to the U.</description>
+    </item>
+    
+  </channel>
+</rss>
