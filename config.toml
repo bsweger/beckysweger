@@ -19,7 +19,7 @@ publishDir = "docs"
 [params]
     author = "Becky Sweger"
     description = "a personal website"
-    info = "data detective and sleever roller-upper"
+    info = "data detective and sleeve roller-upper"
     avatarurl = "images/avatar.jpg"
     footercontent = "the redness of the rings remains a mystery"
     images = ["images/avatar.jpg"]
