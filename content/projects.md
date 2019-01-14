@@ -7,9 +7,10 @@ draft: False
 ### Talks
 
 * 2018 StrangeLoop Software With a Mission: [From Coder to Bureaucrat](https://docs.google.com/presentation/d/1HV35uz4J6zWQYJHaQ3me8gLXyiuHhJ9u9z12L-fjIwc/) (co-presenter)
-* FiveCollege Stats and Data Science Research Bytes: Columnar Data Storage and the Separation of Compute and Storage
+* 2018 FiveCollege Stats and Data Science Research Bytes: Columnar Data Storage and the Separation of Compute and Storage
+* 2018 Western MA Full Stack Meetup: [The Humble Dataframe](https://github.com/bsweger/humble-dataframe/blob/master/humble-dataframe-slides.pdf)
 * 2017 DATA Act Summit: [Leveraging Technology to Modernize Government (panel)](https://www.datacoalition.org/data-act-summit-data-demo-day-2017/)
-* DATA Act Training: [Why the DATA Act Matters: New Uses for Standardized Spending Information](http://www.datafoundation.org/data-act-training-june-2017/)
+* 2017 DATA Act Training: [Why the DATA Act Matters: New Uses for Standardized Spending Information](http://www.datafoundation.org/data-act-training-june-2017/)
 * 18F Tech Talk: [Data Munging With Python and Pandas](https://github.com/18F/tech-talks/blob/master/pandas-munging/pandas_data_munging.ipynb)
 * 2014 NERD Summit: [Intro to IPython Notebooks](http://www.swegler.com/becky/presentations/nerdsummit/NERDSPresentation.slides.html#/)
 * 2012 Association of Public Data Users: [Transitioning to Open Government Data](https://www.slideshare.net/bendystraw/cffr-vs-usaspending?qid=1fa99ee6-2c48-4e8e-900f-4c071abb0e20&v=&b=&from_search=3)
