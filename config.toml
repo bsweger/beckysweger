@@ -20,7 +20,7 @@ publishDir = "docs"
     author = "Becky Sweger"
     description = "a personal website"
     info = "data detective and sleever roller-upper"
-    avatarurl = "img/headshot.jpg"
+    avatarurl = "images/headshot.jpg"
     footercontent = "the redness of the rings remains a mystery"
 
     dateformat = "January 2, 2006"
