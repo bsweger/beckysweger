@@ -19,7 +19,7 @@ publishDir = "docs"
 [params]
     author = "Becky Sweger"
     description = "a personal website"
-    info = "data detective and sleeve roller-upper"
+    info = "tech leader, data engineer, sleeve roller-upper"
     avatarurl = "images/avatar.jpg"
     footercontent = "the redness of the rings remains a mystery"
     # don't specify page-level twitter card image until there's a
