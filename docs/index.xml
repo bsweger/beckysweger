@@ -6,10 +6,16 @@
     <description>Recent content on beckysweger.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 22:27:06 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.beckysweger.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 17 Oct 2020 17:17:03 -0400</lastBuildDate><atom:link href="https://www.beckysweger.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Hiring: The Streetlight Effect</title>
+      <link>https://www.beckysweger.com/writing/tech-streetlight-effect/</link>
+      <pubDate>Sat, 17 Oct 2020 17:17:03 -0400</pubDate>
+      
+      <guid>https://www.beckysweger.com/writing/tech-streetlight-effect/</guid>
+      <description>Programmers of a Certain Age If you’re a software engineer of a certain age&amp;ndash;working before the first dot com, let’s say&amp;ndash;you might remember when software engineers were mere programmers. You might also remember that programming was a job and not a lifestyle. You weren’t in “tech,” you worked for the electric company, writing the code for their billing system. A pretty fun job, and a solid middle class living.
+Regardless of what we call ourselves now, telling computers what to do remains a good way to earn money (for now, until the robots take over).</description>
+    </item>
     
     <item>
       <title>About</title>
