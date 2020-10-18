@@ -1,20 +1,22 @@
 ---
-title: "Projects"
+title: "Projects and Talks"
 date: 2019-01-13T16:44:47-05:00
 draft: False
 ---
 
-### Talks
+## Selected Talks
 
-* 2018 StrangeLoop Software With a Mission: [From Coder to Bureaucrat](https://docs.google.com/presentation/d/1HV35uz4J6zWQYJHaQ3me8gLXyiuHhJ9u9z12L-fjIwc/) (co-presenter)
-* 2018 FiveCollege Stats and Data Science Research Bytes: Columnar Data Storage and the Separation of Compute and Storage
-* 2018 Western MA Full Stack Meetup: [The Humble Dataframe](https://github.com/bsweger/humble-dataframe/blob/master/humble-dataframe-slides.pdf)
-* 2017 DATA Act Summit: [Leveraging Technology to Modernize Government (panel)](https://www.datacoalition.org/data-act-summit-data-demo-day-2017/)
-* 2017 DATA Act Training: [Why the DATA Act Matters: New Uses for Standardized Spending Information](http://www.datafoundation.org/data-act-training-june-2017/)
-* 18F Tech Talk: [Data Munging With Python and Pandas](https://github.com/18F/tech-talks/blob/master/pandas-munging/pandas_data_munging.ipynb)
-* 2014 NERD Summit: [Intro to IPython Notebooks](http://www.swegler.com/becky/presentations/nerdsummit/NERDSPresentation.slides.html#/)
-* 2012 Association of Public Data Users: [Transitioning to Open Government Data](https://www.slideshare.net/bendystraw/cffr-vs-usaspending?qid=1fa99ee6-2c48-4e8e-900f-4c071abb0e20&v=&b=&from_search=3)
-* Wharton Computing Tech Talk: [Elegant and Efficient Database Design](https://www.slideshare.net/bendystraw/elegant-and-efficient-database-design)
+* StrangeLoop - Software With a Mission, 2018: [From Coder to Bureaucrat](https://docs.google.com/presentation/d/1HV35uz4J6zWQYJHaQ3me8gLXyiuHhJ9u9z12L-fjIwc/) (co-presenter)
+* FiveCollege Stats and Data Science Research Bytes: Columnar Data Storage and the Separation of Compute and Storage, 2018
+* Western MA Full Stack Meetup: [The Humble Dataframe](https://github.com/bsweger/humble-dataframe/blob/master/humble-dataframe-slides.pdf)
+* DATA Act Summit, 2017: [Leveraging Technology to Modernize Government (panel)](https://www.datacoalition.org/data-act-summit-data-demo-day-2017/)
+* DATA Act Training, 2017: [Why the DATA Act Matters: New Uses for Standardized Spending Information](http://www.datafoundation.org/data-act-training-june-2017/)
+* 18F: [Data Munging With Python and Pandas](https://github.com/18F/tech-talks/blob/master/pandas-munging/pandas_data_munging.ipynb)
+* New England Regional Developers (NERD) Summit: [Intro to IPython Notebooks](http://www.swegler.com/becky/presentations/nerdsummit/NERDSPresentation.slides.html#/)
+* Association of Public Data Users (APDU): [Transitioning to Open Government Data](https://www.slideshare.net/bendystraw/cffr-vs-usaspending?qid=1fa99ee6-2c48-4e8e-900f-4c071abb0e20&v=&b=&from_search=3)
+* Wharton School of Business: [Elegant and Efficient Database Design](https://www.slideshare.net/bendystraw/elegant-and-efficient-database-design)
+
+## Selected Projects
 
 ### DATA Act: USAspending API
 
@@ -68,12 +70,3 @@ I served on the organizing committee in 2013 and 2014 before passing the torch.
 
 * [Internet Archive](https://web.archive.org/web/20130818021737/http://hackforwesternmass.org/)
 * Source code: [https://github.com/hackforwesternmass](https://github.com/hackforwesternmass)
-
-### Computers are for People
-
-A technical blog that I haven't updated in years. I keep it around as evidence
-that I can write. Some favorite (if somewhat dated) posts:
-
-* [Getting R to work in a notebook running on Windows](http://www.swegler.com/becky/blog/2014/08/03/ipython-ipython-notebook-anaconda-and-r-rpy2/)
-* [Tutorials for running Python, Django, and MySQL on Windows, back when it was harder](http://www.swegler.com/becky/blog/2011/09/14/python-django-and-mysql-on-windows-7/)
-* [Making Excel charts less...ugly](http://www.swegler.com/becky/blog/2012/01/29/no-excuses-for-ugly-excel-charts/)
