@@ -17,23 +17,23 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://www.beckysweger.com/about/</link>
       <pubDate>Sun, 13 Jan 2019 17:03:04 -0500</pubDate>
       
       <guid>https://www.beckysweger.com/about/</guid>
-      <description>I&amp;rsquo;m a tech leader and software engineer who specializes in designing, munging, and shipping data.
-Currently I&amp;rsquo;m a principal data engineer for Trello at Atlassian. Previously, I was a U.S. federal civil servant, serving as a tech lead and member of the engineering team at 18F, a consultancy inside the General Services Administration.
-During my 18F tenure, I lead the technical implementation of the DATA Act, the nation’s first open data law.</description>
+      <description>I&amp;rsquo;m a technical leader and software engineer who specializes in designing, building, and shipping data-centric applications.
+Currently a Principal Data Engineer at Trello (Atlassian), I previously held an appointment at 18F, a government-embedded startup created under the Obama administration. There, I led the technical implementation of the United States&#39; first open data law.
+A twenty-five year tech veteran, I&amp;rsquo;ve held leadership positions in higher education, healthcare, and the non-profit sectors.</description>
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Projects and Talks</title>
       <link>https://www.beckysweger.com/projects/</link>
       <pubDate>Sun, 13 Jan 2019 16:44:47 -0500</pubDate>
       
       <guid>https://www.beckysweger.com/projects/</guid>
-      <description>Talks  2018 StrangeLoop Software With a Mission: From Coder to Bureaucrat (co-presenter) 2018 FiveCollege Stats and Data Science Research Bytes: Columnar Data Storage and the Separation of Compute and Storage 2018 Western MA Full Stack Meetup: The Humble Dataframe 2017 DATA Act Summit: Leveraging Technology to Modernize Government (panel) 2017 DATA Act Training: Why the DATA Act Matters: New Uses for Standardized Spending Information 18F Tech Talk: Data Munging With Python and Pandas 2014 NERD Summit: Intro to IPython Notebooks 2012 Association of Public Data Users: Transitioning to Open Government Data Wharton Computing Tech Talk: Elegant and Efficient Database Design  DATA Act: USAspending API Led the buildout of an API that presents, for the first time, a unified view of U.</description>
+      <description>Selected Talks  StrangeLoop - Software With a Mission, 2018: From Coder to Bureaucrat (co-presenter) FiveCollege Stats and Data Science Research Bytes: Columnar Data Storage and the Separation of Compute and Storage, 2018 Western MA Full Stack Meetup: The Humble Dataframe DATA Act Summit, 2017: Leveraging Technology to Modernize Government (panel) DATA Act Training, 2017: Why the DATA Act Matters: New Uses for Standardized Spending Information 18F: Data Munging With Python and Pandas New England Regional Developers (NERD) Summit: Intro to IPython Notebooks Association of Public Data Users (APDU): Transitioning to Open Government Data Wharton School of Business: Elegant and Efficient Database Design  Selected Projects DATA Act: USAspending API Led the buildout of an API that presents, for the first time, a unified view of U.</description>
     </item>
     
   </channel>
