@@ -1,6 +1,6 @@
 baseURL = "https://www.beckysweger.com/"
 languageCode = "en-us"
-title = "beckysweger.com"
+title = "Becky Sweger"
 theme = "coder"
 
 languagecode = "en"
@@ -17,11 +17,11 @@ pygmentscodefencesguesssyntax = true
 publishDir = "docs"
 
 [params]
-    author = "Becky Sweger"
-    description = "a personal website"
-    info = "principal engineer and data slinger"
+    # author = "Becky Sweger"
+    description = "Becky is a data-focused engineer and tech veteran"
+    info = "software engineer and data specialist"
     avatarurl = "images/avatar.jpg"
-    footercontent = "the redness of the rings remains a mystery"
+    # footercontent = "the redness of the rings remains a mystery"
     # don't specify page-level twitter card image until there's a
     # better one to use
     # images = ["images/avatar.jpg"]
@@ -58,7 +58,7 @@ publishDir = "docs"
 
     [[menu.main]]
         identifier = "projects"
-        name = "Projects"
+        name = "Projects and Talks"
         url = "/projects/"
         weight = 3
 
